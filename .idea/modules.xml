@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestMeven.iml" filepath="$PROJECT_DIR$/TestMeven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://F:\project\TestMeven\TestMeven.iml" filepath="F:\project\TestMeven\TestMeven.iml" />
+      <module fileurl="file://F:\project\TestMeven\app\app.iml" filepath="F:\project\TestMeven\app\app.iml" />
+      <module fileurl="file://F:\project\TestMeven\mylibrary\mylibrary.iml" filepath="F:\project\TestMeven\mylibrary\mylibrary.iml" />
     </modules>
   </component>
 </project>
