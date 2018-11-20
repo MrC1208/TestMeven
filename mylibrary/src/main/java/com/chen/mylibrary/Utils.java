@@ -8,5 +8,9 @@ package com.chen.mylibrary;
 public class Utils {
     public static String add(int x, int y) {
         return String.valueOf((x + y));
+    }\
+
+    public static void test() {
     }
+
 }
